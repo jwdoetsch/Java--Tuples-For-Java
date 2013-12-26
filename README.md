@@ -3,7 +3,7 @@
 ##com.doetsch.tuple##
 
 This Java package looks to extend the functionality of Java my implementing a
-realization of tuples.
+realization of immutable tuples. 
 
 ###Contents###
 

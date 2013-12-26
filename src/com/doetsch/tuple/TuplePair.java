@@ -3,7 +3,8 @@ package com.doetsch.tuple;
 /**
  * TuplePair is the realization of a two-element
  * tuple. It is intended to extend the functionality
- * of Java by implementing tuples. 
+ * of Java by implementing tuples. TuplePair is 
+ * immutable.
  *  
  * @author Jacob Wesley Doetsch
  *
